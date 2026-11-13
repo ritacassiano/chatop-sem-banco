@@ -5,7 +5,7 @@ import streamlit as st  # Biblioteca para criar a interface web
 import pandas as pd     # Biblioteca para leitura e manipulação de dados
 import json             # Biblioteca para trabalhar com arquivos JSON
 
-#1. CONFIGURAÇÃO DO STREAMLIT - configurações iniciais da página
+#CONFIGURAÇÃO DO STREAMLIT - configurações iniciais da página
 st.set_page_config(
     page_title="Chatbot Operadora Cartão",  # Título da aba
     page_icon="💳",                        # Ícone da aba
